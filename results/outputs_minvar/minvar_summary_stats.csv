@@ -1,9 +1,9 @@
 metric,value
-Annualized mean return,0.048284931750341625
-Annualized volatility,0.13797724786392732
-Sharpe ratio,0.223106516069261
-Minimum monthly return,-0.12015555639785568
-Maximum monthly return,0.14154085123796795
-Final cumulative index,1.5914457317785924
-Maximum drawdown,-0.23877641840813701
+Annualized mean return,0.046854762071353064
+Annualized volatility,0.13789982826162347
+Sharpe ratio,0.2128772029478166
+Minimum monthly return,-0.12015555679469127
+Maximum monthly return,0.14182017152404947
+Final cumulative index,1.5647108273384938
+Maximum drawdown,-0.23877641909572556
 Number of monthly observations,144.0
